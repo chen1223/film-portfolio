@@ -5,7 +5,7 @@
 [Live Demo](https://www.brianchenfilm.com/)
 
 ## About
-A static portfolio website made for film major to showcase his/her works.
+A portfolio website made for film major to showcase his/her works.
 
 ## Tech Stacks
 
